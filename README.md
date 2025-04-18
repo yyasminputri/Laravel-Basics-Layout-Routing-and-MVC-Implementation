@@ -95,10 +95,13 @@ class Pertemuan1Controller extends Controller
 ## Visual Website
 ### Genap Ganjil
 <img width="1440" alt="Screenshot 2025-04-18 at 11 33 16" src="https://github.com/user-attachments/assets/8fb8dc13-baf2-478d-9c4b-a560a8dad42c" />
+
 ### Fibonacci
 <img width="1440" alt="Screenshot 2025-04-18 at 11 33 23" src="https://github.com/user-attachments/assets/c3acf20b-7b6a-4de7-a7f7-f6789b2387b5" />
+
 ### Bilangan Prima
 <img width="1440" alt="Screenshot 2025-04-18 at 11 33 30" src="https://github.com/user-attachments/assets/b6dea4f7-50c7-49d6-bdd5-95b78d5a040f" />
+
 ### Parameter 
 <img width="1440" alt="Screenshot 2025-04-18 at 11 33 57" src="https://github.com/user-attachments/assets/b84e03ff-a49c-4f86-88a8-73428b30c706" />
 
